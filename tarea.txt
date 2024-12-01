@@ -1,0 +1,17 @@
+1.
+Valores muy grandes de C dan un alto error tanto de entrenamiento como test
+Valores muy pequeños dan bajo error de entrenamiento y test
+Valores bajos de C mejoran la capacidad de generalización hasta cierto punto
+La metodología para elegir el valor correcto de C podría ser validación cruzada
+
+
+2.
+Nuevamente validación cruzada es una buena técnica para elegir los parámetros del modelo
+
+3.
+
+4.
+
+5.
+A mayor valor de C mayor el numero de support vectors. Mientras que a menor C menor número de support vectors
+
